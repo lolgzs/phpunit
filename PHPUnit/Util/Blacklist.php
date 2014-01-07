@@ -99,7 +99,7 @@ class PHPUnit_Util_Blacklist
                 'PHPUnit_Extensions_SeleniumTestCase' => 2,
                 'PHPUnit_Extensions_Story_TestCase' => 2,
                 'Text_Template' => 1,
-                'SebastianBergmann\Diff' => 1,
+                'SebastianBergmann\Diff\Diff' => 1,
                 'SebastianBergmann\Exporter\Exporter' => 1,
                 'SebastianBergmann\Version' => 1
             );
